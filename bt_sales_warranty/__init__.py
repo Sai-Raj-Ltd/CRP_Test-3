@@ -1,3 +1,3 @@
-from . import wizard #wizard name
+from . import wizard 
 from . import models
 
